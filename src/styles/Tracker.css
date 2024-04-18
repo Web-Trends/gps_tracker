@@ -1,0 +1,26 @@
+/* Tracker.css */
+.tracker-container {
+  padding: 20px 60px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.tracker-container iframe {
+  max-width: 800px;
+  height: 420px;
+  margin-top: 15px;
+}
+
+.location {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #fff;
+}
+
+.map-link {
+  display: block;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 20px;
+}
